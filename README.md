@@ -38,6 +38,8 @@ Transforming Donut Charts in Power BI from Power BI Masterclass
 
 Для трансформации использована круговая диаграмма из проекта, опубликованного здесь ранее <br> 
 [DA-Power-BI-project_Financial-analysis-with-forecast-construction-](https://github.com/ElenaTratsevskaya/DA-Power-BI-project_Financial-analysis-with-forecast-construction-) 
+<br> <br> 
+Файл pbix прикрепляю.
 
 
 
