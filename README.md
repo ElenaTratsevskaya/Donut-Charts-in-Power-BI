@@ -4,6 +4,7 @@ Transforming Donut Charts in Power BI from Power BI Masterclass
 </br></br>
 <div id="header" align="center">
 <img src="https://user-images.githubusercontent.com/71708626/110930907-702e6d80-8308-11eb-8b03-9c4ad447bcf8.png" title="powerBI" width="60" height="60"/>&nbsp;
+<img src="https://avatars.mds.yandex.net/i?id=0306d580613d24b96d174bd747f0550cde2a5d3b-12620487-images-thumbs&n=13" title="Medium" width="242" height="60"/>&nbsp;
 </div></br></br>
 
 Визуализация выполнена на основе статьи [medium.com](https://medium.com/microsoft-power-bi/from-boring-to-brilliant-transforming-donut-charts-in-power-bi-chap-1-0f00c3a571d6) <br> 
